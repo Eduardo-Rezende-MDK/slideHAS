@@ -1,0 +1,90 @@
+{
+    "slide1": {
+        "titulo": "INFUSÃO DE ÓLEOS",
+        "subtitulo": "PARA CABELOS ULTRARRESSECADOS",
+        "imagem": "ASSETS/1/assets-1.png"
+    },
+    "slide2": {
+        "frase_sumario": "Reposição máxima de lipídeos, nutrientes e devolução de vitalidade.",
+        "ativos": [
+            {
+                "nome": "ÓLEO DE MARULA",
+                "bullets": [
+                    "Ômegas 3 e 6",
+                    "Vitaminas A, C e E",
+                    "Hidratação profunda"
+                ]
+            },
+            {
+                "nome": "ÓLEO DE ARGAN",
+                "bullets": [
+                    "Ômega 9",
+                    "Ação anti oxidante",
+                    "Maciez e brilho"
+                ]
+            },
+            {
+                "nome": "ÓLEO DE MONOI",
+                "bullets": [
+                    "Proteção UV",
+                    "Barreira protetora",
+                    "Prevenção de danos"
+                ]
+            }
+        ]
+    },
+    "slide3": {
+        "frase_sumario": "Tratamento de nutrição intensa para a fibra capilar e protege contra danos externos.",
+        "produtos": [
+            {
+                "nome": "SHAMPOO",
+                "imagem": "ASSETS/2/assets-1.png",
+                "bullets": [
+                    "Limpeza suave",
+                    "Alta carga lipídica",
+                    "Cabelos mais sedosos e nutridos"
+                ]
+            },
+            {
+                "nome": "CONDICIONADOR",
+                "imagem": "ASSETS/2/assets-2.png",
+                "bullets": [
+                    "Nutre e Hidrata",
+                    "Selagem de cutículas",
+                    "Alto brilho"
+                ]
+            },
+            {
+                "nome": "MÁSCARA DE TRATAMENTO",
+                "imagem": "ASSETS/3/assets-1.png",
+                "bullets": [
+                    "Reposição lipídica",
+                    "Emoliência intensa",
+                    "Devolve a saúde do fio"
+                ]
+            },
+            {
+                "nome": "LEAVE IN",
+                "imagem": "ASSETS/3/assets-2.png",
+                "bullets": [
+                    "Proteção solar e térmica",
+                    "Ação nutritiva e desembaraçante",
+                    "Devolve resistência e vitalidade do fio"
+                ]
+            },
+            {
+                "nome": "ÓLEO NUTRITIVO",
+                "imagem": "ASSETS/4/assets-1.png",
+                "bullets": [
+                    "Proteção solar",
+                    "Ação umectante e antifrizz",
+                    "Reduz pontas duplas"
+                ]
+            }
+        ]
+    },
+    "tema": {
+        "cor": "#df862e",
+        "background": "#edd8bb"
+    }
+}
