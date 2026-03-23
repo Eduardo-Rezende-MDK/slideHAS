@@ -2,7 +2,7 @@
     "slide1": {
         "titulo": "INFUSÃO DE ÓLEOS",
         "subtitulo": "PARA CABELOS ULTRARRESSECADOS",
-        "imagem": "ASSETS/1/assets-1.png"
+        "imagem": "https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/infus%C3%A3o_de_oleos/ASSETS/1/assets-1.png"
     },
     "slide2": {
         "frase_sumario": "Reposição máxima de lipídeos, nutrientes e devolução de vitalidade.",
@@ -38,7 +38,7 @@
         "produtos": [
             {
                 "nome": "SHAMPOO",
-                "imagem": "ASSETS/2/assets-1.png",
+                "imagem": "https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/infus%C3%A3o_de_oleos/ASSETS/2/assets-1.png",
                 "bullets": [
                     "Limpeza suave",
                     "Alta carga lipídica",
@@ -47,7 +47,7 @@
             },
             {
                 "nome": "CONDICIONADOR",
-                "imagem": "ASSETS/2/assets-2.png",
+                "imagem": "https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/infus%C3%A3o_de_oleos/ASSETS/2/assets-2.png",
                 "bullets": [
                     "Nutre e Hidrata",
                     "Selagem de cutículas",
@@ -56,7 +56,7 @@
             },
             {
                 "nome": "MÁSCARA DE TRATAMENTO",
-                "imagem": "ASSETS/3/assets-1.png",
+                "imagem": "https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/infus%C3%A3o_de_oleos/ASSETS/3/assets-1.png",
                 "bullets": [
                     "Reposição lipídica",
                     "Emoliência intensa",
@@ -65,7 +65,7 @@
             },
             {
                 "nome": "LEAVE IN",
-                "imagem": "ASSETS/3/assets-2.png",
+                "imagem": "https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/infus%C3%A3o_de_oleos/ASSETS/3/assets-2.png",
                 "bullets": [
                     "Proteção solar e térmica",
                     "Ação nutritiva e desembaraçante",
@@ -74,7 +74,7 @@
             },
             {
                 "nome": "ÓLEO NUTRITIVO",
-                "imagem": "ASSETS/4/assets-1.png",
+                "imagem": "https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/infus%C3%A3o_de_oleos/ASSETS/4/assets-1.png",
                 "bullets": [
                     "Proteção solar",
                     "Ação umectante e antifrizz",
