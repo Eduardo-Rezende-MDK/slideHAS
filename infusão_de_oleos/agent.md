@@ -28,7 +28,7 @@ Aja como um engenheiro de prompts sênior. Escreva um guia de instruções que c
 - Gerir Links de Imagens: Converter automaticamente caminhos locais (ex: `ASSETS/...`, sem subpastas) para links RAW do GitHub no repositório:
 
 ```text
-https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/ASSETS/
+https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/infus%C3%A3o_de_oleos/ASSETS/
 ```
 
 ### Identidade Visual

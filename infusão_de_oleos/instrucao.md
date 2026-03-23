@@ -44,12 +44,12 @@ Todos os caminhos de imagem devem ser convertidos para URL RAW do GitHub:
 Base:
 
 ```text
-https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/ASSETS/
+https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/infus%C3%A3o_de_oleos/ASSETS/
 ```
 
 Regra:
 
-- `ASSETS/infusao_de_oleos_shampoo.png` → `https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/ASSETS/infusao_de_oleos_shampoo.png`
+- `ASSETS/infusao_de_oleos_shampoo.png` → `https://raw.githubusercontent.com/Eduardo-Rezende-MDK/slideHAS/main/infus%C3%A3o_de_oleos/ASSETS/infusao_de_oleos_shampoo.png`
 
 ## 5. Estrutura Obrigatória de Saída (3 Slides)
 
